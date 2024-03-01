@@ -21,14 +21,20 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "config": {
+        "googleMaps": {
+          "apiKey": "h76t57h8u6h8756hn5nn-ux2m6A"
+        }
+      },
+      "package": "com.aftabameen.a2b_app"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "eb8b9234-35b6-4a58-a7a3-968495a719f8"
+        "projectId": "3974094c-11a7-4e75-b663-9b2d7aa091ce"
       }
     }
   }
